@@ -1,0 +1,11 @@
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+*.opensdf
+*.sdf
+*.sln
+*.v12.suo
+Content/*
+!Content/UnrealTut
+
